@@ -28,7 +28,7 @@ jobs:
         uses: actions/upload-pages-artifact@v2
   deploy:
     environment:
-      name: github-pages
+      name: Lorilang Docs
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     needs: build
