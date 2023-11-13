@@ -3,7 +3,7 @@
 
 [![Build status](https://img.shields.io/github/actions/workflow/status/Otter-and-Seal/lorilang/build.yml?style=flat-square)](https://github.com/Otter-and-Seal/lorilang/actions)
 [![Firmware version](https://img.shields.io/badge/fw%20version-pre--alpha-blue?style=flat-square)](https://github.com/Otter-and-Seal/lorilang/releases)
-[![Hardware revision](https://img.shields.io/badge/hw%20revision-pvt-red?style=flat-square)](https://www.google.com)
+[![Hardware revision](https://img.shields.io/badge/hw%20revision-pvt-blue?style=flat-square)](https://www.google.com)
 
 </div>
 
