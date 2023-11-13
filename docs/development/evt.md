@@ -1,5 +1,3 @@
-# EVT
-
 ## Build
 
 **Before assembly**
