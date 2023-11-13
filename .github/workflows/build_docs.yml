@@ -3,6 +3,7 @@ on:
   push:
     branches: ["main"]
     paths: ["docs/**"]
+  workflow_dispatch:  # allows manual running of this workflow
 permissions:
   contents: read
   pages: write
