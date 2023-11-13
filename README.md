@@ -10,4 +10,4 @@
 
 Lorilang is a talking flashcard toy that helps children learn languages. This repo contains all of the project documents, including software and hardware sources.
 
-[Development journal (todo)](https://www.google.com)
+[Development log](https://docs.lorilang.co.uk/development)
